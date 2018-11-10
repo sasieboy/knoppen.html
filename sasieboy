@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+</style>
+</head>
+<body>
+<img src="https://www.google.be/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjR1sb2icreAhWP_qQKHTdzD8oQjRx6BAgBEAU&url=https%3A%2F%2Fwww.jumia.co.ke%2Fcan-250ml-pack-of-24-red-bull-mpg103823.html&psig=AOvVaw0iej4e1kgw-_-bSdL3WEKe&ust=1541947958173523" alt="Redbull" style="width:50%;">
+<br>  
+<img src="https://www.google.be/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjs1dTpi8reAhWRjqQKHXqnC9oQjhx6BAgBEAM&url=https%3A%2F%2Fwww.amazon.com%2FMonster-Energy-Zero-Ultra-Ounce%2Fdp%2FB00ADYXY7E&psig=AOvVaw3yFB-r9g0WIiGoLnKqs66x&ust=1541948469413967" alt="Monster" style="width:50%;">
+<br>
+<img src="https://www.google.be/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjTutmgjMreAhXMC-wKHUjxA0cQjRx6BAgBEAU&url=https%3A%2F%2Fenergy-plattform.blogspot.com%2F2016%2F07%2Fcarrefour-psychik-regular.html&psig=AOvVaw2xNKNyETcJSmEUAulu39Kc&ust=1541948563173243" alt="Psychik" style="width:50%;">
+<br>
+<br>
+<a href="index.html" class="button">Terug naar startpagina</a>    
+</body>
+</html>
